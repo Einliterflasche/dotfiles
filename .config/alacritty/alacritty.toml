@@ -1,0 +1,11 @@
+import = [
+  "~/.config/alacritty/themes/xterm.toml"
+]
+
+[window]
+opacity = 0.85
+
+[font]
+size = 13.5
+normal = { family = "SFMono Nerd Font", style = "Regular" }
+

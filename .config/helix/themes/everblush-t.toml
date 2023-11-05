@@ -1,0 +1,8 @@
+inherits = "everblush"
+
+"ui.background" = { }
+
+["ui.virtual.inlay-hint"]
+background = {}
+foreground = "gray"
+

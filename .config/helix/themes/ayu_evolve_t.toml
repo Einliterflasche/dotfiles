@@ -1,0 +1,9 @@
+inherits = "ayu_evolve"
+
+"ui.background" = { }
+
+["ui.virtual.inlay-hint"]
+background = {}
+foreground = "gray"
+modifiers = ["italic", "dim"]
+

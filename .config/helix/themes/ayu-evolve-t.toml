@@ -1,0 +1,5 @@
+inherits = "ayu_evolve"
+
+# Make it transparent
+"ui.background" = {}
+
